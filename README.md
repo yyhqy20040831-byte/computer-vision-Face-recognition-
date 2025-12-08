@@ -14,8 +14,7 @@ The face detection and recognition system based on OpenCV includes data collecti
 : Training the face recognition model using the LBPH algorithm
 5. **Real-time Recognition**
 : Face recognition in real-time video streams
-6. **Security Alert**
-: Unknown face detection and SMS alarm notification 
+
 ## 🛠️ Environment Configuration (Requirements) 
 ### 1. System Requirements -
 Python 3.7+ -
